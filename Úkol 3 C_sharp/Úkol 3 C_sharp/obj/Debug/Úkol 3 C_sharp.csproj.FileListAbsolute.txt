@@ -1,0 +1,11 @@
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\bin\Debug\Úkol 3 C_sharp.exe.config
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\bin\Debug\Úkol 3 C_sharp.exe
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\bin\Debug\Úkol 3 C_sharp.pdb
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol_3_C_sharp.Menu.resources
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol_3_C_sharp.Priklad3.resources
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol_3_C_sharp.Properties.Resources.resources
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol 3 C_sharp.csproj.GenerateResource.cache
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol 3 C_sharp.csproj.CoreCompileInputs.cache
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol 3 C_sharp.exe
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol 3 C_sharp.pdb
+G:\programování\Úkol 3 C_sharp\Úkol 3 C_sharp\obj\Debug\Úkol_3_C_sharp.Priklad4.resources
